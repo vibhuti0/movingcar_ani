@@ -1,18 +1,18 @@
 To allow autoplay of audio on specific websites in Google Chrome, you can modify the site settings to permit autoplay. Here's how you can do it:
 
-Steps to Allow Autoplay in Google Chrome:
+Steps to Allow Autoplay in Google Chrome:<br>
 1.<strong>Open Chrome Settings:</strong>
 
 Open Google Chrome and click the three vertical dots (menu) in the upper-right corner of the window.
-Select Settings from the dropdown menu.
+Select Settings from the dropdown menu.<br>
 2.<strong>Access Site Settings:</strong>
 
 Scroll down and click on Privacy and security on the left-hand sidebar.
-Under Privacy and security, select Site Settings.
+Under Privacy and security, select Site Settings.<br>
 3.<strong>Manage Autoplay Permissions:</strong>
 
 Scroll down and click on Additional content settings to expand the options.
-Click on Sound.
+Click on Sound.<br>
 4.<strong>Enable Autoplay:</strong>
 
 Under the Sound section, you will see an option to allow or block sites from playing sound.
